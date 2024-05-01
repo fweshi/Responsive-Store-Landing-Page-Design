@@ -1,7 +1,7 @@
 # Responsive-Store-Landing-Page-Design README
 
 ## Overview
-This project is a responsive store landing page designed and developed for showcasing products and providing an online shopping experience. The landing page features a clean and attractive design, with sections for product display, about information, and contact details.
+This project is a responsive store landing page designed and developed to showcase products and provide an online shopping experience. The landing page features a clean and attractive design, with sections for product display, about information, and contact details.
 
 ## Features
 - **Product Showcase:** Browse through our collection of products with detailed descriptions and images.
@@ -15,7 +15,7 @@ This project is a responsive store landing page designed and developed for showc
 - CSS3 (Tailwind CSS)
 
 ## Installation
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/fweshi/Responsive-Store-Landing-Page-Design.git]`
 2. Open the `index.html` file in your web browser to view the store landing page locally.
 3. Customize the content and styles according to your store's branding and product offerings.
 
@@ -33,4 +33,4 @@ This project is a responsive store landing page designed and developed for showc
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-Special thanks to [Myself/Fweshi] for development process.
+Special thanks to [Myself/Fweshi] for the development process.
